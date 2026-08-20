@@ -4,7 +4,7 @@ A modern and elegant jewellery e-commerce website designed to showcase premium j
 
 ## 🌐 Live Demo
 
-**Website:** https://bijali-sparkle-emporium.lovable.app/
+🌐 Live Website: https://bijalijewellers.com/
 
 ## ✨ Features
 
